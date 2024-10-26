@@ -28,7 +28,7 @@ EXPOSE 5000
 [vulnerabilities.csv](vulnerabilities.csv)
 
 
-### Задание 3
+### Задача 3
 
 #### 1.[1-2]
 
@@ -40,17 +40,17 @@ EXPOSE 5000
 ![img](image-4.png)
 
 
-### Задание 4
+### Задача 4
 main.py
 ![alt text](image-5.png)
 
 not_tested_main.py
 ![alt text](image-6.png)
 
-### Задание 5*
+### Задача 5*
 
 
-### Задание 6
+### Задача 6
 
 #### 6
 ![img](image-7.png)
@@ -70,4 +70,4 @@ $
 
 #### 6.2**
 
-### Задание 7***
+### Задача 7***
